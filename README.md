@@ -13,7 +13,7 @@ This repository contains code samples and projects involving HTML, CSS, JavaScri
 4. Python with Streamlit: This section contains Python code leveraging the Streamlit library for building interactive web applications. Streamlit allows you to create data-driven apps quickly and easily using only Python.
 
 # How to Use
-1. Clone the Repository: Start by cloning this repository to your local machine using Git. git clone https://github.com/NIRMAL1508/PRODIGY_WORK.git
+1. Clone the Repository: Start by cloning this repository to your local machine using Git. git clone (https://github.com/MehuliChowdhury/Prodigy_WD)
 
 2. Navigate to Desired Directory: Depending on what you're interested in, navigate to the respective directory (e.g., HTML, CSS, JavaScript, Python-Streamlit).
 
